@@ -1,0 +1,9 @@
+<?php 
+    $HostName="localhost";
+    $DBUser="root";
+    $DBPassword="";
+    $BrandName=$ProduuctName="";
+    $DatabaseName="UserData";
+    $TableName="";
+    $UserName=$Password=$Address=$MobileNo=$Name="";
+?>
